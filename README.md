@@ -16,8 +16,13 @@ Please email me at jose.a.estevez@uv.es for any further information.
 
 The GEE repository includes the codes for some mapping demos:
 
-1. Mapping at local scale 
+**1. Mapping at local scale**
 
-2. Mapping uncertainties
+![image](https://user-images.githubusercontent.com/99983732/155011559-29060772-a883-45fe-b296-3934fb410823.png)
+ 
 
-3. Mapping at national scale 
+**2. Mapping uncertainties**
+
+**3. Mapping at national scale**
+ 
+![image](https://user-images.githubusercontent.com/99983732/155011342-e8c0726d-f9fd-4552-a859-a359709acffe.png)
